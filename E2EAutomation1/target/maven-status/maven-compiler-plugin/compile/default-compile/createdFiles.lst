@@ -1,0 +1,6 @@
+TestFramework\E2EProject\App.class
+pageObjects\LandingPage.class
+pageObjects\ForgotPWDPage.class
+pageObjects\LoginPage.class
+resources\Base.class
+resources\ExtentReport.class
